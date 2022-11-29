@@ -1,6 +1,6 @@
 # gnss_ros_gui
 ## 1. Introduction
-A ros package to visualize gnss raw messages.
+A ros package to visualize gnss raw messages.  
 **Attention:**  The project has not been finished yet. If  having suggestion, please open an issue.
 
 ![](./pci/ui.png)
