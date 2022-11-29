@@ -12,7 +12,7 @@ ros melodic
 ```
 
 
-## 3.Build and Run
+## 3.Usage
 ```
 cd $gnss_ros_gui  
 catkin_make   
