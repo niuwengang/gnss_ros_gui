@@ -18,7 +18,7 @@ source devel/setup.bash
 rosrun gnss_ros_gui gnss_ros_gui
 ```
 
-## 4.
+## 4. License
 The source code is released under GPLv3 license.
 
 
