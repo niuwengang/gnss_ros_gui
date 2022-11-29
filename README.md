@@ -1,5 +1,6 @@
 # gnss_ros_gui
-A ros package to visualize gnss messages. The project is stll coding ...
+A ros package to visualize gnss messages. 
+Attention: The project has not been finished yet.
 
 
 ## Dependencies
