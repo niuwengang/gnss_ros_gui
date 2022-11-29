@@ -18,12 +18,16 @@ ros melodic
 cd $gnss_ros_gui  
 catkin_make   
 source devel/setup.bash  
-rosrun gnss_ros_gui gnss_ros_gui
+rosrun gnss_ros_gui gnss_ros_gui  
 ```
 
-## 4. License
-The source code is released under GPLv3 license.
+## 4.Acknowledgements  
+Thanks for GVINS.  
 
 
-## 5. Update Log
-2022/11/29: Project framework has been built.
+## 5. License
+The source code is released under GPLv3 license.  
+
+
+## 6. Update Log
+2022/11/29: Project framework has been built.  
