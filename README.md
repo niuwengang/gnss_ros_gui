@@ -3,7 +3,8 @@
 A ros package to visualize gnss raw messages.  
 **Attention:**  The project has not been finished yet. If  having suggestion, please open an issue.
 
-![](./pci/ui.png)
+ <img src="/pci/ui.png" width="60%">
+ 
 ## 2. Dependencies
 ros melodic  
 ```
