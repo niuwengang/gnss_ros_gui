@@ -1,6 +1,5 @@
 # gnss_ros_gui
 ## 1. Introduction
-<<<<<<< Updated upstream
 A ros package to visualize gnss messages.  
 **Attention:**  the project has not been finished yet.
 
