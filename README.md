@@ -1,7 +1,7 @@
 # gnss_ros_gui
 ## 1. Introduction
-A ros package to visualize gnss messages. 
-Attention: the project has not been finished yet.
+A ros package to visualize gnss messages.  
+**Attention:**  the project has not been finished yet.
 
 
 ## 2. Dependencies
@@ -12,7 +12,7 @@ ros melodic
 ```
 
 
-## 3.Build and Run
+## 3.Usage
 ```
 cd $gnss_ros_gui  
 catkin_make   
