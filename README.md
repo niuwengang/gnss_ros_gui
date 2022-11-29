@@ -1,7 +1,7 @@
 # gnss_ros_gui
 ## 1. Introduction
 A ros package to visualize gnss messages. 
-Attention: the project has not been finished yet.
+**Attention:**  the project has not been finished yet.
 
 
 ## 2. Dependencies
