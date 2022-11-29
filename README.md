@@ -1,5 +1,5 @@
 # gnss_ros_gui
-A ros package to 
+A ros package to visualize gnss messages. The project is stll coding ...
 
 
 ## Dependencies
@@ -15,3 +15,5 @@ ros melodic
 source devel/setup.bash
 rosrun gnss_ros_gui gnss_ros_gui
 ```
+
+
