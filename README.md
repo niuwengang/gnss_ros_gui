@@ -8,7 +8,7 @@ Attention: the project has not been finished yet.
 ros melodic  
 ```
  sudo apt-get install ros-melodic-qt-create
-  sudo apt-get install ros-melodic-qt-build
+ sudo apt-get install ros-melodic-qt-build
 ```
 
 
