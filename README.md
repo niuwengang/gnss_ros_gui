@@ -6,12 +6,11 @@ A ros package to visualize gnss raw messages.
  <img src="/pci/ui.png" width="60%">
  
 ## 2. Dependencies
-ros melodic  
+ros melodic (has contained qt5)
 ```
  sudo apt-get install ros-melodic-qt-create
  sudo apt-get install ros-melodic-qt-build
 ```
-
 
 ## 3.Usage
 ```
