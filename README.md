@@ -1,9 +1,15 @@
 # gnss_ros_gui
 ## 1. Introduction
+<<<<<<< Updated upstream
 A ros package to visualize gnss messages.  
 **Attention:**  the project has not been finished yet.
 
 
+=======
+A ros package to visualize gnss messages. 
+Attention: the project has not been finished yet.
+![](./pci/ui.png)
+>>>>>>> Stashed changes
 ## 2. Dependencies
 ros melodic  
 ```
