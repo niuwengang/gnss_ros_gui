@@ -2,9 +2,6 @@
 ## 1. Introduction
 A ros package to visualize gnss messages.  
 **Attention:**  the project has not been finished yet.
-
-
-=======
 A ros package to visualize gnss messages. 
 Attention: the project has not been finished yet.
 ![](./pci/ui.png)
