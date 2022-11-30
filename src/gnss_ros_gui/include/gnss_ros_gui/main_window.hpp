@@ -6,14 +6,15 @@
 #include "ui_main_window.h"
 #include "qnode.hpp"
 
+QT_CHARTS_USE_NAMESPACE
 
 namespace gnss_ros_gui {
 
 class MainWindow : public QMainWindow {
-    Q_OBJECT
+    Q_OBJECT//宏 允许类中使用信号和槽的机制
 
 public:
-    MainWindow(int argc, char** argv, QWidget *parent = 0);
+    MainWindow(int argc, char** argv, QWidget *parent = 0);//=0 使用默认参数
     ~MainWindow();
 
 public Q_SLOTS:

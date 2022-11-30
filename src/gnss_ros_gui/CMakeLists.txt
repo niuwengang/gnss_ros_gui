@@ -7,10 +7,10 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 find_package(catkin REQUIRED COMPONENTS qt_build roscpp)
 include_directories(${catkin_INCLUDE_DIRS})
 
-find_package(Qt5 REQUIRED Core Widgets)
-set(QT_LIBRARIES Qt5::Widgets)
+find_package(Qt5 REQUIRED Core Widgets  )
+find_package(Qt5Charts REQUIRED)
+set(QT_LIBRARIES Qt5::Widgets  Qt5::Charts)
 include_directories(${catkin_INCLUDE_DIRS})
-
 catkin_package()
 
 
